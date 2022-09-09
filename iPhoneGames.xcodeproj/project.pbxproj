@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		320F0ABB2891710400E3AADF /* Cards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cards.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		320F0ABB2891710400E3AADF /* iPhoneGames.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iPhoneGames.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		320F0ABE2891710400E3AADF /* Lab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab.swift; sourceTree = "<group>"; };
 		320F0AC02891710400E3AADF /* DiceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiceView.swift; sourceTree = "<group>"; };
 		320F0AC22891710500E3AADF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -37,7 +37,7 @@
 		320F0AB22891710400E3AADF = {
 			isa = PBXGroup;
 			children = (
-				320F0ABD2891710400E3AADF /* Cards */,
+				320F0ABD2891710400E3AADF /* iPhoneGames */,
 				320F0ABC2891710400E3AADF /* Products */,
 			);
 			sourceTree = "<group>";
@@ -45,12 +45,12 @@
 		320F0ABC2891710400E3AADF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				320F0ABB2891710400E3AADF /* Cards.app */,
+				320F0ABB2891710400E3AADF /* iPhoneGames.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		320F0ABD2891710400E3AADF /* Cards */ = {
+		320F0ABD2891710400E3AADF /* iPhoneGames */ = {
 			isa = PBXGroup;
 			children = (
 				320F0ABE2891710400E3AADF /* Lab.swift */,
@@ -59,7 +59,7 @@
 				320F0AC22891710500E3AADF /* Assets.xcassets */,
 				320F0AC42891710500E3AADF /* Preview Content */,
 			);
-			path = Cards;
+			path = iPhoneGames;
 			sourceTree = "<group>";
 		};
 		320F0AC42891710500E3AADF /* Preview Content */ = {
@@ -73,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		320F0ABA2891710400E3AADF /* Cards */ = {
+		320F0ABA2891710400E3AADF /* iPhoneGames */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 320F0AC92891710500E3AADF /* Build configuration list for PBXNativeTarget "Cards" */;
+			buildConfigurationList = 320F0AC92891710500E3AADF /* Build configuration list for PBXNativeTarget "iPhoneGames" */;
 			buildPhases = (
 				320F0AB72891710400E3AADF /* Sources */,
 				320F0AB82891710400E3AADF /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = Cards;
+			name = iPhoneGames;
 			productName = Dice;
-			productReference = 320F0ABB2891710400E3AADF /* Cards.app */;
+			productReference = 320F0ABB2891710400E3AADF /* iPhoneGames.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 320F0AB62891710400E3AADF /* Build configuration list for PBXProject "Cards" */;
+			buildConfigurationList = 320F0AB62891710400E3AADF /* Build configuration list for PBXProject "iPhoneGames" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				320F0ABA2891710400E3AADF /* Cards */,
+				320F0ABA2891710400E3AADF /* iPhoneGames */,
 			);
 		};
 /* End PBXProject section */
@@ -286,7 +286,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.roxoft.Cards;
-				PRODUCT_NAME = Cards;
+				PRODUCT_NAME = iPhoneGames;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -316,7 +316,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.roxoft.Cards;
-				PRODUCT_NAME = Cards;
+				PRODUCT_NAME = iPhoneGames;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -326,7 +326,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		320F0AB62891710400E3AADF /* Build configuration list for PBXProject "Cards" */ = {
+		320F0AB62891710400E3AADF /* Build configuration list for PBXProject "iPhoneGames" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				320F0AC72891710500E3AADF /* Debug */,
@@ -335,7 +335,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		320F0AC92891710500E3AADF /* Build configuration list for PBXNativeTarget "Cards" */ = {
+		320F0AC92891710500E3AADF /* Build configuration list for PBXNativeTarget "iPhoneGames" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				320F0ACA2891710500E3AADF /* Debug */,
